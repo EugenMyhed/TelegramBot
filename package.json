@@ -1,0 +1,27 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugenMyhed/TelegramBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EugenMyhed/TelegramBot/issues"
+  },
+  "homepage": "https://github.com/EugenMyhed/TelegramBot#readme",
+  "dependencies": {
+    "install": "^0.12.2",
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "npm": "^6.4.1",
+    "telegraf": "^3.25.5"
+  }
+}
